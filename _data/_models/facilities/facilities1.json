@@ -1,6 +1,6 @@
 {
-    "name": "The Spa",
-    "description":  "Have a nice relaxing time at the spa",
-    "order": 1,
-    "hidden": false
+  "name": "Dining",
+  "description": " <br />Satisfy your appetite at one of the hotel&apos;s 2 ",
+  "order": 1,
+  "hidden": false
 }

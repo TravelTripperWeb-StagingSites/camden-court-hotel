@@ -1,2 +1,5 @@
-{"name":"Amenity 6",
-  "order": 6}
+{
+  "name": "Business center                    ",
+  "order": 6,
+  "hidden": false
+}

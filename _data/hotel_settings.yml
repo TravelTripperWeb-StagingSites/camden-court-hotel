@@ -1,0 +1,16 @@
+---
+_hotel_id: CAM522
+_portal_id: required-but-empty
+_root_path: https://qa5.ttaws.com/rt
+latitude: 53.33347
+longitude: -6.26506
+name: Camden Court Hotel
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
+address:
+  street1: Camden Street
+  street2: ''
+  state: ''
+  city: Dublin
+  country: 
+  zip_code: '2'
